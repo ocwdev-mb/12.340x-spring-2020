@@ -1,0 +1,5 @@
+leftnav:
+- identifier: external-1102451488-1658520282026
+  name: Course Website
+  url: https://openlearninglibrary.mit.edu/courses/course-v1:MITx+12.340x+1T2020/about
+  weight: 10
